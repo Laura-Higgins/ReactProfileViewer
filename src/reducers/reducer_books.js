@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: "Hey" },
-    { title: "Bye" },
-    { title: "Get Out"},
-    { title: "Come Back"}
+    { title: "Great Expectations" },
+    { title: "Romeo and Juliet" },
+    { title: "Island of Dr. Monreau" },
+    { title: "My Side of the Mountain" }
    ]
 }
