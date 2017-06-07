@@ -1,0 +1,18 @@
+.user-name {
+  margin-top: 35px;
+  font-size: 64px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.user-age {
+  text-align: right;
+  margin-right: 25px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.user-bio {
+  font-size: 36px;
+  font-weight: lighter;
+}

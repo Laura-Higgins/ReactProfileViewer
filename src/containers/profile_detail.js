@@ -8,9 +8,9 @@ class ProfileDetail extends Component {
     }
     return (
       <div>
-        <h3>{this.props.profile.name} </h3>
-        <div>Age: {this.props.profile.age} </div>
-        <div>Bio: {this.props.profile.bio}</div>
+        <h3 className="user-name">{this.props.profile.name} </h3>
+        <div className="user-age">age: {this.props.profile.age} </div>
+        <div className="user-bio"> {this.props.profile.bio}</div>
       </div>
     )
   }
