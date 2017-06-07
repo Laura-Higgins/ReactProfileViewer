@@ -1,6 +1,6 @@
-export function selectBook(book) {
+export function selectProfile(profile) {
   return {
-    type: 'BOOK_SELCTED',
-    payload: book
+    type: 'PROFILE_SELCTED',
+    payload: profile
   }
 }
