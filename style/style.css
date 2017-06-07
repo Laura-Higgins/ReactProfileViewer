@@ -16,3 +16,20 @@
   font-size: 36px;
   font-weight: lighter;
 }
+
+.profile-list {
+  margin-top: 35px;
+}
+
+.detail-bio-header {
+  text-align: center;
+  margin-top: 35px;
+  font-size: 45px;
+  font-weight: lighter;
+}
+
+.detail-bio-intro {
+  text-align: center;
+  margin-left: 10px;
+  font-weight: lighter;
+}

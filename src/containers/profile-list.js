@@ -18,7 +18,7 @@ class ProfileList extends Component {
   }
   render() {
     return (
-      <ul className="list-group col-sm-4">
+      <ul className="list-group col-sm-4 profile-list">
         {this.renderList()}
       </ul>
     )
